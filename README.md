@@ -1,4 +1,4 @@
-<center>Introduction :</center>
+# <center>Introduction :</center>
 - Hello, I'm [Yatin Deshpande](@socksparadox), an E&TC graduate (Batch:2021) from Pune, Maharashtra, India!
 - I have keen interest in Artificial Intelligence, Machine Learning and Data Science.
 
