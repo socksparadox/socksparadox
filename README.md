@@ -1,4 +1,11 @@
-### Hi there 👋
+#<center>Introduction :</center>
+- Hello, I'm [Yatin Deshpande](@socksparadox), an E&TC graduate (Batch:2021) from Pune, Maharashtra, India!
+- I have keen interest in Artificial Intelligence, Machine Learning and Data Science.
+
+# <center>Contact :</center>
+- You can find me on [LinkedIn](https://www.linkedin.com/in/yatin-deshpande/), [Kaggle](https://www.kaggle.com/yatindeshpande)
+- Gmail : yatindeshpande92@gmail.com
+
 
 <!--
 **socksparadox/socksparadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
