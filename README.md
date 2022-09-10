@@ -1,5 +1,6 @@
 # <center>Introduction :</center>
-- Hello, I'm [Yatin Deshpande](@socksparadox), an E&TC graduate (Batch:2021) from Pune, Maharashtra, India!
+- Hello, I'm [Yatin Deshpande](@socksparadox), an MBA student specializing in the field of Data Science and Data Analytics.
+- I am Electronics & Telecommunication graduate (Batch:2021) from Pune, Maharashtra, India!
 - I have keen interest in Artificial Intelligence, Machine Learning and Data Science.
 
 # <center>Contact :</center>
